@@ -1,6 +1,6 @@
 # work-day-scheduler
 
-Deployed URL:
+Deployed URL: https://simonmoore23.github.io/work-day-scheduler/
 GitHub Repo URL: https://github.com/simonmoore23/work-day-scheduler
 
 ## Description
